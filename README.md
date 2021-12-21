@@ -9,6 +9,8 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
  - Swift is a fantastic way to write software, whether it’s for phones, desktops, servers, or anything else that runs code.
 
+![swift-app](https://github.com/veilair/swift-development/blob/main/img/swift-firebase.png)
+
 ### Why Swift?
 Swift defines away large classes of common programming errors by adopting modern programming patterns:
 

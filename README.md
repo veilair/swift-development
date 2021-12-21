@@ -5,6 +5,8 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
 [Swift](https://developer.apple.com/swift/) is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
 
+![swift](https://github.com/veilair/swift-development/blob/main/img/Swift-Logo.png)
+
  - Swift is a fantastic way to write software, whether it’s for phones, desktops, servers, or anything else that runs code.
 
 ### Why Swift?

@@ -1,5 +1,8 @@
 # Swift Development
 
+> Welcome to the world of Swift!
+An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about Swift development.
+
 ### Contents
 
 - [Guides](#guides)

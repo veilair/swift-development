@@ -3,6 +3,20 @@
 > Welcome to the world of Swift!
 An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about Swift development.
 
+[Swift](https://developer.apple.com/swift/) is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
+
+ - Swift is a fantastic way to write software, whether it’s for phones, desktops, servers, or anything else that runs code.
+
+### Why Swift?
+Swift defines away large classes of common programming errors by adopting modern programming patterns:
+
+- Variables are always initialized before use.
+- Array indices are checked for out-of-bounds errors.
+- Integers are checked for overflow.
+- Optionals ensure that nil values are handled explicitly.
+- Memory is managed automatically.
+- Error handling allows controlled recovery from unexpected failures.
+
 ### Contents
 
 - [Guides](#guides)

@@ -11,7 +11,7 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
 ![swift-app](https://github.com/veilair/swift-development/blob/main/img/swift-firebase.png)
 
-### Why Swift?
+### `Why Swift?`
 Swift defines away large classes of common programming errors by adopting modern programming patterns:
 
 - Variables are always initialized before use.
@@ -21,7 +21,7 @@ Swift defines away large classes of common programming errors by adopting modern
 - Memory is managed automatically.
 - Error handling allows controlled recovery from unexpected failures.
 
-### Contents
+### `Table of Contents`
 
 - [Guides](#guides)
   - [Newsletter](#newsletter)
